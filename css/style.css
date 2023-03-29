@@ -7,13 +7,12 @@
 }
 
 svg{
-  position: relative;
   left: -50px;
 }
 
 .penchuk{
-  border: 2px dashed #ccc;
-  width: 250px;
+  border: 1px dashed #ccccccd9;
+  width: 300px;
   height: 200px;
 }
 
